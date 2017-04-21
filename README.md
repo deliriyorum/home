@@ -1,2 +1,5 @@
-# home
-deliriyorum.com
+# deliriyorum.com
+
+aklını kaçıranların sitesi.
+
+*çok yakında...*
