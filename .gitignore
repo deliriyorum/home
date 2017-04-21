@@ -1,0 +1,13 @@
+/build_local/
+/node_modules/
+/vendor/
+/tasks/
+/source/
+.idea
+bootstrap.php
+composer.json
+composer.lock
+config.php
+gulpfile.js
+npm-debug.log
+package.json
