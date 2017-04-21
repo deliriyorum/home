@@ -1,5 +1,5 @@
 # deliriyorum.com
 
-aklını kaçıranların sitesi.
+aklını kaçıran adamın sitesi.
 
 *çok yakında...*
